@@ -6,16 +6,16 @@ A C++ game development project created as part of my studies at the Singapore In
 
 Corebreak is a team-based game development project built using the Alpha Engine. The project involves implementing gameplay mechanics, enemy behaviour and interactive game systems.
 
-## My Contributions
+## My Contributions & Collaboration
 
-As a member of the development team, I worked on:
+Contributed to the development of several gameplay systems, working both independently and alongside other team members.
 
-- **Player Systems:** Implemented player controls and animations.
+- **Player Systems:** Worked on player controls and animations.
 - **Enemy AI:** Developed enemy movement and behaviour.
-- **Boss Systems:** Implemented boss abilities and behaviour.
+- **Boss Systems:** Contributed to boss abilities and behaviour.
 - **Inventory System:** Worked on inventory functionality.
-- **Shop System:** Implemented shop and upgrade mechanics.
-- **Gameplay Features:** Contributed to lighting and sanity-related mechanics.
+- **Shop System:** Contributed to shop and upgrade mechanics.
+- **Gameplay Features:** Worked on lighting and sanity-related mechanics.
 
 ## Technologies Used
 
